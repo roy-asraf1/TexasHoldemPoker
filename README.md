@@ -1,5 +1,5 @@
 # TexasHoldemPoker_Game
-_Authors [matanbrimer@]() & [@roy-asraf1](https://github.com/roy-asraf1)_
+_Authors [@matanbrimer](https://github.com/matanbrimer/C2_EX1/commits?author=matanbrimer) & [@roy-asraf1](https://github.com/roy-asraf1)_
 
 
 ### Built With
